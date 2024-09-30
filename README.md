@@ -1,6 +1,6 @@
 # Computer Security
 ## 2024-2 @HGU
----
+
 ### Course Introduction
  
 ### Class Attributes
