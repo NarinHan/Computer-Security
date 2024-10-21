@@ -1,0 +1,5 @@
+dog Buddy
+cat Whiskers
+cow Daisy
+dog Max
+cat Tiger
